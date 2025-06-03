@@ -1,5 +1,8 @@
-# Projeto_
+# Projeto de finalização do curso de iniciação em Python para o Projeto DiversificaDev.
+
 Uma lista de obras (filmes, livros, desenhos, etc) para console python. Foi o projeto final para o curso de iniciação Python para o Projeto DiversificaDev
+
+# Segue uma descrição do que a lista faz, e coisas que gostaria de implementar
 
 Neste programa, pode-se adicionar obras para a lista, dar nota à obra adicionada, deletar alguma obra da lista, exibir a lista com as obras inseridas e suas respectivas notas.
 
